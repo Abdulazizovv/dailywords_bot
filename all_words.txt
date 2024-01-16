@@ -1,0 +1,119 @@
+Word Count: 13
+1)English: air
+Uzbek: havo
+V1: samolyot
+V2: osmon
+V3: musaffo
+Used: True
+Created: 2024-01-10 09:43:09 UTC
+Updated: 2024-01-13 16:57:33 UTC
+
+2)English: run
+Uzbek: yugurmoq
+V1: uxlamoq
+V2: charchamoq
+V3: kelmoq
+Used: True
+Created: 2024-01-10 09:41:02 UTC
+Updated: 2024-01-13 16:57:23 UTC
+
+3)English: hello
+Uzbek: salom
+V1: a
+V2: b
+V3: c
+V4: d
+Used: True
+Created: 2024-01-10 09:34:07 UTC
+Updated: 2024-01-13 16:57:12 UTC
+
+4)English: train
+Uzbek: poezd
+V1: metro
+V2: avtobus
+V3: trolleybus
+Used: True
+Created: 2024-01-10 10:04:50 UTC
+Updated: 2024-01-13 16:56:59 UTC
+
+5)English: bottom
+Uzbek: pasti, osti
+V1: yuqori
+V2: o'rtasi
+V3: o'ng tomon
+Used: True
+Created: 2024-01-11 10:45:51 UTC
+Updated: 2024-01-13 16:56:48 UTC
+
+6)English: bread
+Uzbek: non
+V1: kesmoq
+V2: do'kon
+V3: dona
+Used: True
+Created: 2024-01-08 21:27:51 UTC
+Updated: 2024-01-13 16:44:58 UTC
+
+7)English: our
+Uzbek: biz
+V1: ular
+V2:  sizlar
+V3:  anavi
+Used: False
+Created: 2024-01-13 16:34:46 UTC
+Updated: 2024-01-13 16:34:46 UTC
+
+8)English: family
+Uzbek: oila
+V1: ota-ona
+V2: vatan
+V3: quvonch
+Used: False
+Created: 2024-01-10 10:34:47 UTC
+Updated: 2024-01-13 16:33:13 UTC
+
+9)English: order
+Uzbek: buyurtma
+V1: tasdiqlamoq
+V2: saralamoq
+V3: ochmoq
+Used: False
+Created: 2024-01-10 10:33:46 UTC
+Updated: 2024-01-13 16:33:13 UTC
+
+10)English: game
+Uzbek: Oʻyin
+V1: Test
+V2: omad
+V3: kalit
+Used: True
+Created: 2024-01-12 09:42:33 UTC
+Updated: 2024-01-13 08:41:39 UTC
+
+11)English: box
+Uzbek: quti
+V1: burchak
+V2: orol
+V3: dengiz
+Used: True
+Created: 2024-01-10 10:36:34 UTC
+Updated: 2024-01-13 08:41:33 UTC
+
+12)English: eye
+Uzbek: ko'z
+V1: qosh
+V2: burun
+V3: og'iz
+Used: True
+Created: 2024-01-13 07:54:05 UTC
+Updated: 2024-01-13 08:41:23 UTC
+
+13)English: hello
+Uzbek: salom
+V1: a
+V2: b
+V3: c
+Used: True
+Created: 2024-01-08 21:26:11 UTC
+Updated: 2024-01-12 10:26:29 UTC
+

@@ -1,0 +1,9 @@
+aiogram==2.25.1
+apscheduler==3.10.4
+bs4==0.0.1
+django==5.0.1
+environs==10.0.0
+pillow==10.2.0
+pip-chill==1.0.3
+psycopg2-binary==2.9.9
+requests==2.31.0
