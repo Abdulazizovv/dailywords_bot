@@ -28,7 +28,10 @@ async def send_poll():
     word = await get_word()
     if word:
         question = f"{word.english} means?"
-        options = [getattr(word, f"v{i}") for i in range(1, 5) if hasattr(word, f"v{i}") and getattr(word, f"v{i}") is not None]
+        options1 = [getattr(word, f"v{i}") for i in range(1, 5) if hasattr(word, f"v{i}") and getattr(word, f"v{i}") is not None]
+        options =[]
+        for i in options1:
+            options.append(i.strip())
         options.append(word.uzbek)
         options = random.sample(options, len(options))
         correct_answer = options.index(word.uzbek)

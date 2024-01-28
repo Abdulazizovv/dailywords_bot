@@ -98,7 +98,7 @@ async def get_uzbek_word(message: types.Message, state: FSMContext):
 
 @dp.message_handler(state=AddWordState.variants)
 async def get_variants(message: types.Message, state: FSMContext):
-    variants = message.text.lower().split(",")
+    variants = message.text.lower().strip().split(",")
     variants_text = ''
     await state.update_data(variants=variants)
     data = await state.get_data()

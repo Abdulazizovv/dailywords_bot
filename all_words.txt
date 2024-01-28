@@ -1,119 +1,896 @@
-Word Count: 13
-1)English: air
-Uzbek: havo
-V1: samolyot
-V2: osmon
-V3: musaffo
-Used: True
-Created: 2024-01-10 09:43:09 UTC
-Updated: 2024-01-13 16:57:33 UTC
-
-2)English: run
-Uzbek: yugurmoq
-V1: uxlamoq
-V2: charchamoq
-V3: kelmoq
-Used: True
-Created: 2024-01-10 09:41:02 UTC
-Updated: 2024-01-13 16:57:23 UTC
-
-3)English: hello
-Uzbek: salom
-V1: a
-V2: b
-V3: c
-V4: d
-Used: True
-Created: 2024-01-10 09:34:07 UTC
-Updated: 2024-01-13 16:57:12 UTC
-
-4)English: train
-Uzbek: poezd
-V1: metro
-V2: avtobus
-V3: trolleybus
-Used: True
-Created: 2024-01-10 10:04:50 UTC
-Updated: 2024-01-13 16:56:59 UTC
-
-5)English: bottom
-Uzbek: pasti, osti
-V1: yuqori
-V2: o'rtasi
-V3: o'ng tomon
-Used: True
-Created: 2024-01-11 10:45:51 UTC
-Updated: 2024-01-13 16:56:48 UTC
-
-6)English: bread
-Uzbek: non
-V1: kesmoq
-V2: do'kon
-V3: dona
-Used: True
-Created: 2024-01-08 21:27:51 UTC
-Updated: 2024-01-13 16:44:58 UTC
-
-7)English: our
-Uzbek: biz
-V1: ular
-V2:  sizlar
-V3:  anavi
+Word Count: 103
+1)English: back up
+Uzbek: qóllab quvvatlamoq
+V1: orqaga ketmoq
+V2:  ishi yurishmaslik
 Used: False
-Created: 2024-01-13 16:34:46 UTC
-Updated: 2024-01-13 16:34:46 UTC
+Created: 2024-01-20 06:49:54 UTC
+Updated: 2024-01-28 14:39:50 UTC
+
+2)English: explanation
+Uzbek: izoh
+V1: chetga sotish
+V2:  sobiq rejadosh
+Used: False
+Created: 2024-01-20 06:35:32 UTC
+Updated: 2024-01-28 14:39:50 UTC
+
+3)English: fallacy
+Uzbek: notóğri xulosa
+V1: shippak
+V2:  yugurmoq
+Used: False
+Created: 2024-01-20 06:26:41 UTC
+Updated: 2024-01-28 14:39:50 UTC
+
+4)English: ever since
+Uzbek: óshandan beri
+V1: haligacha
+V2:  butunlay
+V3:  ga qaraganda
+Used: False
+Created: 2024-01-20 06:05:27 UTC
+Updated: 2024-01-28 14:39:50 UTC
+
+5)English: to some extent
+Uzbek: qisman
+V1: yuzaki
+V2:  qalloblarcha
+V3:  biroz kengayish
+Used: False
+Created: 2024-01-19 05:42:32 UTC
+Updated: 2024-01-28 14:39:50 UTC
+
+6)English: essentially
+Uzbek: umuman olganda
+V1: muhimroği
+V2:  qiyinlashuv
+V3:  oshkor bólgan
+Used: False
+Created: 2024-01-19 05:41:08 UTC
+Updated: 2024-01-28 14:39:50 UTC
+
+7)English: flower
+Uzbek: gul
+V1: o'simlik
+V2:  kapalak
+V3:  qush
+Used: False
+Created: 2024-01-17 11:26:19 UTC
+Updated: 2024-01-28 14:39:50 UTC
 
 8)English: family
 Uzbek: oila
-V1: ota-ona
-V2: vatan
-V3: quvonch
+V1: ishonch
+V2:  mehr
+V3:  ota-ona
 Used: False
-Created: 2024-01-10 10:34:47 UTC
-Updated: 2024-01-13 16:33:13 UTC
+Created: 2024-01-17 11:21:25 UTC
+Updated: 2024-01-28 14:39:50 UTC
 
-9)English: order
-Uzbek: buyurtma
-V1: tasdiqlamoq
-V2: saralamoq
-V3: ochmoq
+9)English: networking
+Uzbek: ózaro aloqa órnatish
+V1: ish qidirish
+V2:  daydib yurish
+V3:  internetda vaqt ótkazish
 Used: False
-Created: 2024-01-10 10:33:46 UTC
-Updated: 2024-01-13 16:33:13 UTC
+Created: 2024-01-20 05:49:54 UTC
+Updated: 2024-01-23 17:57:08 UTC
 
-10)English: game
-Uzbek: Oʻyin
-V1: Test
-V2: omad
-V3: kalit
-Used: True
-Created: 2024-01-12 09:42:33 UTC
-Updated: 2024-01-13 08:41:39 UTC
+10)English: contagious
+Uzbek: yuqumli
+V1: efektive
+V2:  zarari katta
+Used: False
+Created: 2024-01-20 06:51:13 UTC
+Updated: 2024-01-22 11:57:07 UTC
 
-11)English: box
-Uzbek: quti
-V1: burchak
-V2: orol
-V3: dengiz
-Used: True
-Created: 2024-01-10 10:36:34 UTC
-Updated: 2024-01-13 08:41:33 UTC
+11)English: variety
+Uzbek: xilma-xillik
+V1: óxshashlik
+V2:  ajralib turish
+Used: False
+Created: 2024-01-19 06:09:43 UTC
+Updated: 2024-01-22 11:57:07 UTC
 
-12)English: eye
-Uzbek: ko'z
-V1: qosh
-V2: burun
-V3: og'iz
-Used: True
-Created: 2024-01-13 07:54:05 UTC
-Updated: 2024-01-13 08:41:23 UTC
+12)English: depends on
+Uzbek: boğliq bólmoq
+V1: eslatma
+V2:  ga qaraganda
+V3:  dan tashqari
+Used: False
+Created: 2024-01-19 05:56:00 UTC
+Updated: 2024-01-22 11:57:07 UTC
 
-13)English: hello
-Uzbek: salom
-V1: a
-V2: b
-V3: c
-Used: True
-Created: 2024-01-08 21:26:11 UTC
-Updated: 2024-01-12 10:26:29 UTC
+13)English: in particular
+Uzbek: ayniqsa
+V1: qatorasiga
+V2:  óylab qaraganda
+V3:  aksincha
+Used: False
+Created: 2024-01-19 05:25:10 UTC
+Updated: 2024-01-22 06:57:06 UTC
+
+14)English: point out
+Uzbek: takidlab ótmoq
+V1: kórsatmoq
+V2:  bildirmoq
+V3:  sózlamoq
+Used: False
+Created: 2024-01-19 05:36:20 UTC
+Updated: 2024-01-22 05:57:06 UTC
+
+15)English: tie
+Uzbek: boʻyinbogʻ
+V1: paypoq
+V2: oyoq kiyim
+V3: kostyum
+Used: False
+Created: 2024-01-19 09:55:39 UTC
+Updated: 2024-01-22 04:57:06 UTC
+
+16)English: divide
+Uzbek: taqsimlamoq, bólmoq
+V1: ilohiy
+V2:  barpo qilmoq
+V3:  nimjon
+Used: False
+Created: 2024-01-19 05:43:38 UTC
+Updated: 2024-01-22 03:57:06 UTC
+
+17)English: street
+Uzbek: koʻcha
+V1: yoʻlak
+V2:  oʻgʻri
+V3:  soʻqmoq
+Used: False
+Created: 2024-01-17 15:22:47 UTC
+Updated: 2024-01-22 02:57:06 UTC
+
+18)English: predict
+Uzbek: oldindan aytmoq
+V1: taxmin qilmoq
+V2:  rozi bólmoq
+V3:  kelishmoq
+Used: False
+Created: 2024-01-19 05:53:54 UTC
+Updated: 2024-01-22 01:57:06 UTC
+
+19)English: bird
+Uzbek: qush
+V1: baliq
+V2:  tovuq
+V3:  pingvin
+Used: False
+Created: 2024-01-17 11:25:17 UTC
+Updated: 2024-01-21 23:57:06 UTC
+
+20)English: covert
+Uzbek: ózgartirmoq
+V1: tuğilmoq
+V2:  vayron qilmoq
+V3:  tan olmoq
+Used: False
+Created: 2024-01-19 05:35:37 UTC
+Updated: 2024-01-21 22:57:06 UTC
+
+21)English: search
+Uzbek: qidirish
+V1: topish
+V2: chiqish
+V3: kirish
+Used: False
+Created: 2024-01-19 09:57:56 UTC
+Updated: 2024-01-21 21:57:06 UTC
+
+22)English: river
+Uzbek: daryo
+V1: ummon
+V2:  ko'l
+V3:  sahro
+Used: False
+Created: 2024-01-17 11:24:05 UTC
+Updated: 2024-01-21 20:57:06 UTC
+
+23)English: come up
+Uzbek: paydo bólmoq, yuzaga chiqmoq
+V1: kelmoq
+V2:  kótarilmoq
+V3:  ğoyib bólmoq
+Used: False
+Created: 2024-01-19 05:33:37 UTC
+Updated: 2024-01-21 19:57:06 UTC
+
+24)English: country
+Uzbek: mamlakat
+V1: vatan
+V2:  yer
+V3:  dunyo
+Used: False
+Created: 2024-01-17 11:29:40 UTC
+Updated: 2024-01-21 17:57:05 UTC
+
+25)English: industry
+Uzbek: sanoat
+V1: zavod
+V2:  beton
+V3:  iqlim
+Used: False
+Created: 2024-01-19 12:12:24 UTC
+Updated: 2024-01-21 16:57:05 UTC
+
+26)English: exposure
+Uzbek: qarovsiz qolish
+V1: kuchayishi
+V2:  holdan toyish
+V3:  tashlab ketish
+Used: False
+Created: 2024-01-19 05:52:43 UTC
+Updated: 2024-01-21 16:57:05 UTC
+
+27)English: cognitive
+Uzbek: aqliy
+V1: farosatli
+V2:  kómir
+V3:  tabriklamoq
+Used: False
+Created: 2024-01-19 05:34:48 UTC
+Updated: 2024-01-21 16:57:05 UTC
+
+28)English: value
+Uzbek: qiymat
+V1: qishloq
+V2:  sayohat
+V3:  tóğralgan
+Used: False
+Created: 2024-01-19 05:25:50 UTC
+Updated: 2024-01-21 16:57:05 UTC
+
+29)English: regarding
+Uzbek: xususida
+V1: shaxsiy
+V2:  haqida
+V3:  tamomila
+Used: False
+Created: 2024-01-18 13:15:09 UTC
+Updated: 2024-01-21 16:57:05 UTC
+
+30)English: jealous
+Uzbek: rashkchi
+V1: urushqoq
+V2:  qizğonchiq
+V3:  jaxldor
+Used: False
+Created: 2024-01-18 13:20:04 UTC
+Updated: 2024-01-20 23:08:37 UTC
+
+31)English: to contemplate
+Uzbek: chuqur óylamoq
+V1: ustiga ağdarmoq
+V2:  vazifa topshirmoq
+V3:  chuqur shónğimoq
+Used: False
+Created: 2024-01-18 13:19:05 UTC
+Updated: 2024-01-20 23:08:37 UTC
+
+32)English: socket
+Uzbek: rozetka
+V1: paypoq
+V2:  futbol
+V3:  uzaytirgich
+Used: False
+Created: 2024-01-18 13:11:27 UTC
+Updated: 2024-01-20 22:08:36 UTC
+
+33)English: pull-up
+Uzbek: tortilmoq
+V1: tortmoq
+V2:  tushmoq
+V3:  tóxtatmoq
+Used: False
+Created: 2024-01-18 13:10:25 UTC
+Updated: 2024-01-20 22:08:36 UTC
+
+34)English: embarrassing
+Uzbek: xijolatli
+V1: achinarli
+V2:  yiğlatadigan
+V3:  qoniqarli
+Used: False
+Created: 2024-01-18 13:12:52 UTC
+Updated: 2024-01-20 21:08:36 UTC
+
+35)English: stubborn
+Uzbek: qaysar
+V1: vaysaqi
+V2:  bilağon
+V3:  urushqoq
+Used: False
+Created: 2024-01-18 13:09:24 UTC
+Updated: 2024-01-20 21:08:36 UTC
+
+36)English: regardless
+Uzbek: -dan qat'iy nazar
+V1: -ga kóra
+V2:  -ga bógliq ravishda
+V3:  -ga qaraganda
+Used: False
+Created: 2024-01-18 13:16:41 UTC
+Updated: 2024-01-20 20:08:36 UTC
+
+37)English: pull up
+Uzbek: tóxtatmoq
+V1: tortmoq
+V2:  tortilmoq
+V3:  tushmoq
+Used: False
+Created: 2024-01-18 13:08:34 UTC
+Updated: 2024-01-20 20:08:36 UTC
+
+38)English: to use
+Uzbek: foydalanmoq
+V1: yasamoq
+V2:  foydali
+V3:  qulay
+Used: False
+Created: 2024-01-18 13:06:58 UTC
+Updated: 2024-01-20 19:08:35 UTC
+
+39)English: loneliness
+Uzbek: yolğizlik
+V1: zerikish
+V2:  taajjublanish
+Used: False
+Created: 2024-01-20 06:56:51 UTC
+Updated: 2024-01-20 06:56:51 UTC
+
+40)English: affordable
+Uzbek: qurbi yetadigan
+V1: tajovuzkor
+V2:  baland parvoz
+Used: False
+Created: 2024-01-20 06:55:59 UTC
+Updated: 2024-01-20 06:55:59 UTC
+
+41)English: arguably
+Uzbek: fikrimga qóshilmasligingiz mumkin lekin..
+V1: munozarali
+V2:  urushqoqlik
+V3:  nizo
+Used: False
+Created: 2024-01-20 06:55:13 UTC
+Updated: 2024-01-20 06:55:13 UTC
+
+42)English: occupancy
+Uzbek: band qilish
+V1: rozi bólish
+V2:  ishchi
+Used: False
+Created: 2024-01-20 06:53:51 UTC
+Updated: 2024-01-20 06:53:51 UTC
+
+43)English: household
+Uzbek: xonadon
+V1: kichik uycha 
+V2:  kulba
+V3:  qishloqdagi uy
+Used: False
+Created: 2024-01-20 06:52:50 UTC
+Updated: 2024-01-20 06:52:50 UTC
+
+44)English: miserable
+Uzbek: ğamgin
+V1: sariq chaqasi yóq
+V2:  uyalgan
+Used: False
+Created: 2024-01-20 06:48:47 UTC
+Updated: 2024-01-20 06:48:47 UTC
+
+45)English: significantly
+Uzbek: sezilarli darajada
+V1: mos ravishda
+V2:  ga qaraganda
+Used: False
+Created: 2024-01-20 06:47:52 UTC
+Updated: 2024-01-20 06:47:52 UTC
+
+46)English: inherit
+Uzbek: meros olmoq
+V1: bosib olmoq
+V2:  yakson qilmoq
+Used: False
+Created: 2024-01-20 06:46:20 UTC
+Updated: 2024-01-20 06:46:20 UTC
+
+47)English: intriguing
+Uzbek: qiziqtirib qóyadigan
+V1: asabni buzadigan
+V2:  ğazabni qózğaydigan
+Used: False
+Created: 2024-01-20 06:43:42 UTC
+Updated: 2024-01-20 06:43:42 UTC
+
+48)English: put up with
+Uzbek: sabr qilmoq
+V1: ezilib ketmoq
+V2:  órniga qóymoq
+Used: False
+Created: 2024-01-20 06:42:23 UTC
+Updated: 2024-01-20 06:42:23 UTC
+
+49)English: tolerate
+Uzbek: chidamoq
+V1: tólamoq
+V2:  bókib qolmoq
+Used: False
+Created: 2024-01-20 06:40:35 UTC
+Updated: 2024-01-20 06:40:35 UTC
+
+50)English: tendency
+Uzbek: moyillik
+V1: majburlik
+V2:  bilağonlik
+Used: False
+Created: 2024-01-20 06:39:57 UTC
+Updated: 2024-01-20 06:39:57 UTC
+
+51)English: enriching
+Uzbek: (nimadir narsaga)boy
+V1: tóyib yemoq
+V2:  yetib kelish
+Used: False
+Created: 2024-01-20 06:37:58 UTC
+Updated: 2024-01-20 06:37:58 UTC
+
+52)English: cooperation
+Uzbek: birgalikda
+V1: qóshimcha operatsiya
+V2:  muolaja
+Used: False
+Created: 2024-01-20 06:36:21 UTC
+Updated: 2024-01-20 06:36:21 UTC
+
+53)English: companionship
+Uzbek: sheriklik
+V1: companiya rahbari
+V2:  ishchi lavozim turi
+Used: False
+Created: 2024-01-20 06:34:35 UTC
+Updated: 2024-01-20 06:34:35 UTC
+
+54)English: seek out
+Uzbek: qidirib topmoq
+V1: kasal odam
+V2:  ózib ketish
+Used: False
+Created: 2024-01-20 06:33:25 UTC
+Updated: 2024-01-20 06:33:25 UTC
+
+55)English: isolated
+Uzbek: boshqalardan ajralgan
+V1: óramoq
+V2:  skoch bilan óramoq
+Used: False
+Created: 2024-01-20 06:32:39 UTC
+Updated: 2024-01-20 06:32:40 UTC
+
+56)English: down in the dumps
+Uzbek: tushkunlik
+V1: ochiqchasiga
+V2:  yoppasiga
+V3:  itarmoq
+Used: False
+Created: 2024-01-20 06:31:44 UTC
+Updated: 2024-01-20 06:31:44 UTC
+
+57)English: procrastination
+Uzbek: orqaga surish, kechiktirish
+V1: olib kelish
+V2:  bóyamoq
+V3: 
+Used: False
+Created: 2024-01-20 06:29:35 UTC
+Updated: 2024-01-20 06:29:35 UTC
+
+58)English: minimize
+Uzbek: kamaytirmoq
+V1: kichraytirmoq
+V2:  yóq qilmoq
+V3:  tashlab ketmoq
+Used: False
+Created: 2024-01-20 06:28:20 UTC
+Updated: 2024-01-20 06:28:20 UTC
+
+59)English: run out
+Uzbek: tugab bormoq
+V1: yetib kelmoq
+V2:  uchqun chiqmoq
+V3:  tez yugurmoq
+Used: False
+Created: 2024-01-20 06:27:49 UTC
+Updated: 2024-01-20 06:27:49 UTC
+
+60)English: expose
+Uzbek: oshkor qilmoq
+V1: aldamoq
+V2:  kóndirmoq
+V3:  yalinmoq
+Used: False
+Created: 2024-01-20 06:25:25 UTC
+Updated: 2024-01-20 06:25:26 UTC
+
+61)English: tedious
+Uzbek: zerikarli
+V1: kichkina 
+V2:  ingichka
+V3:  bilağon
+Used: False
+Created: 2024-01-20 06:23:31 UTC
+Updated: 2024-01-20 06:23:31 UTC
+
+62)English: knuckle down
+Uzbek: qattiq kirishmoq
+V1: yerga kómmoq
+V2:  yer bilan bitta qilmoq
+Used: False
+Created: 2024-01-20 06:22:53 UTC
+Updated: 2024-01-20 06:22:53 UTC
+
+63)English: likely
+Uzbek: ehtimoli bor
+V1: óxshash
+V2:  yoqtirgan
+Used: False
+Created: 2024-01-20 06:18:24 UTC
+Updated: 2024-01-20 06:18:25 UTC
+
+64)English: reluctant
+Uzbek: xohlamasdan
+V1: qat'iy turib olmoq
+V2:  injiq
+Used: False
+Created: 2024-01-20 06:16:36 UTC
+Updated: 2024-01-20 06:16:36 UTC
+
+65)English: get on
+Uzbek: uddalamoq
+V1: voz kechmoq
+V2:  qaltish ish
+V3:  olish
+Used: False
+Created: 2024-01-20 06:14:22 UTC
+Updated: 2024-01-20 06:14:22 UTC
+
+66)English: delay
+Uzbek: kechikish
+V1: yolvorish
+V2:  xiyonat qilish
+V3:  firibgar
+Used: False
+Created: 2024-01-20 06:13:06 UTC
+Updated: 2024-01-20 06:13:07 UTC
+
+67)English: sacrifice
+Uzbek: fido qilish
+V1: kinoyali
+V2:  achinish
+V3:  qayta tiklash
+Used: False
+Created: 2024-01-20 06:08:32 UTC
+Updated: 2024-01-20 06:08:33 UTC
+
+68)English: lean on
+Uzbek: suyanmoq, ishonmoq
+V1: berkinmoq
+V2:  qochib ketmoq
+Used: False
+Created: 2024-01-20 06:02:50 UTC
+Updated: 2024-01-20 06:02:50 UTC
+
+69)English: lean
+Uzbek: suyanmoq, egilmoq
+V1: sanchmoq
+V2:  óldirmoq
+Used: False
+Created: 2024-01-20 06:02:18 UTC
+Updated: 2024-01-20 06:02:18 UTC
+
+70)English: transformed
+Uzbek: órgartirmoq
+V1: óyinchilar róyxati
+V2:  chiroy bermoq
+Used: False
+Created: 2024-01-20 05:59:20 UTC
+Updated: 2024-01-20 05:59:20 UTC
+
+71)English: wage
+Uzbek: oylik maosh
+V1: teng miqdordagi
+V2:  yillik
+Used: False
+Created: 2024-01-20 05:57:17 UTC
+Updated: 2024-01-20 05:57:17 UTC
+
+72)English: annual
+Uzbek: yillik
+V1: oylik maosh
+V2:  teng miqdordagi
+Used: False
+Created: 2024-01-20 05:56:49 UTC
+Updated: 2024-01-20 05:56:49 UTC
+
+73)English: equivalent
+Uzbek: teng miqdordagi
+V1: yillik
+V2:  oylik maosh
+Used: False
+Created: 2024-01-20 05:56:07 UTC
+Updated: 2024-01-20 05:56:07 UTC
+
+74)English: matter
+Uzbek: ahamiyati bólmoq
+V1: ishi bólmaslik
+V2:  nordonroq
+Used: False
+Created: 2024-01-20 05:54:12 UTC
+Updated: 2024-01-20 05:54:12 UTC
+
+75)English: in common
+Uzbek: umumiy
+V1: keng tarqalgan
+V2:  yoyilib ketmoq
+Used: False
+Created: 2024-01-20 05:52:49 UTC
+Updated: 2024-01-20 05:52:49 UTC
+
+76)English: engage
+Uzbek: óziga qaratmoq
+V1: yóldan urmoq
+V2:  boshini aylantirmoq
+V3:  kesatmoq
+Used: False
+Created: 2024-01-20 05:51:49 UTC
+Updated: 2024-01-20 05:51:49 UTC
+
+77)English: walk
+Uzbek: yurmoq
+V1: yugurmoq
+V2:  charchamoq
+V3:  uchrashmoq
+Used: False
+Created: 2024-01-17 11:30:56 UTC
+Updated: 2024-01-19 15:08:34 UTC
+
+78)English: cat
+Uzbek: mushuk
+V1: sichqon
+V2:  it
+V3:  sher
+Used: False
+Created: 2024-01-17 11:22:35 UTC
+Updated: 2024-01-19 15:08:34 UTC
+
+79)English: triangle
+Uzbek: uchburchak
+V1: to'rtburchak
+V2:  kvadrat
+V3:  doira
+Used: False
+Created: 2024-01-17 11:23:19 UTC
+Updated: 2024-01-19 14:08:34 UTC
+
+80)English: receive
+Uzbek: qabul qilmoq
+V1: joʻnatmoq
+V2:  kutib olmoq
+V3:  javob bermoq
+Used: False
+Created: 2024-01-19 12:15:30 UTC
+Updated: 2024-01-19 12:15:30 UTC
+
+81)English: history
+Uzbek: tarix
+V1: kelajak
+V2:  zamon
+V3:  ilm-fan
+Used: False
+Created: 2024-01-19 12:13:22 UTC
+Updated: 2024-01-19 12:13:23 UTC
+
+82)English: wind
+Uzbek: shamol
+V1: boʻron
+V2:  doʻl
+V3:  yomgʻir
+Used: False
+Created: 2024-01-19 09:54:22 UTC
+Updated: 2024-01-19 09:54:23 UTC
+
+83)English: smile
+Uzbek: tabassum
+V1: kayfiyat
+V2:  samimiyat
+V3:  ishonch
+Used: False
+Created: 2024-01-19 09:53:38 UTC
+Updated: 2024-01-19 09:53:39 UTC
+
+84)English: blood
+Uzbek: qon
+V1: ildiz
+V2:  oʻsimlik
+V3:  suv
+Used: False
+Created: 2024-01-19 09:51:59 UTC
+Updated: 2024-01-19 09:51:59 UTC
+
+85)English: modern
+Uzbek: zamonaviy
+V1: zamon
+V2:  asr
+V3:  model
+Used: False
+Created: 2024-01-19 09:51:21 UTC
+Updated: 2024-01-19 09:51:21 UTC
+
+86)English: build up
+Uzbek: barpo qilmoq
+V1: mensimoq
+V2:  yaralgan
+V3:  qurilgan
+Used: False
+Created: 2024-01-19 06:08:06 UTC
+Updated: 2024-01-19 06:08:06 UTC
+
+87)English: perhaps
+Uzbek: ehtimol
+V1: ehtiyot
+V2:  band bólmoq
+V3:  tashkillamoq
+Used: False
+Created: 2024-01-19 06:06:05 UTC
+Updated: 2024-01-19 06:06:05 UTC
+
+88)English: look up (from something) [informal]
+Uzbek: yaxshilanmoq
+V1: dan qaramoq
+V2:  ga qaramoq
+Used: False
+Created: 2024-01-19 06:05:03 UTC
+Updated: 2024-01-19 06:05:03 UTC
+
+89)English: look up to somebody
+Uzbek: havas qilmoq
+V1: qaramoq
+V2:  anqayib qaramoq
+V3:  kóchirmoq
+Used: False
+Created: 2024-01-19 06:03:15 UTC
+Updated: 2024-01-19 06:03:16 UTC
+
+90)English: entirely
+Uzbek: butunlay
+V1: umuman
+V2:  shina
+V3:  tirgak
+Used: False
+Created: 2024-01-19 05:59:56 UTC
+Updated: 2024-01-19 05:59:56 UTC
+
+91)English: in fact
+Uzbek: haqiqatan
+V1: tasodif
+V2:  faktlarni ichida
+V3:  aslida
+Used: False
+Created: 2024-01-19 05:58:51 UTC
+Updated: 2024-01-19 05:58:52 UTC
+
+92)English: whether
+Uzbek: -mi yoki ... -masmi
+V1: ob havo
+V2:  tozalik
+V3:  qurğoqchilik
+Used: False
+Created: 2024-01-19 05:58:08 UTC
+Updated: 2024-01-19 05:58:08 UTC
+
+93)English: by the way
+Uzbek: aytgancha
+V1: hoynahoy
+V2:  aslida
+V3:  tógrisini aytganda
+Used: False
+Created: 2024-01-19 05:54:57 UTC
+Updated: 2024-01-19 05:54:57 UTC
+
+94)English: capability
+Uzbek: imkoniyat
+V1: ayshu ishrat
+V2:  maqtanishlik
+V3:  uddalay olmaslik
+Used: False
+Created: 2024-01-19 05:51:04 UTC
+Updated: 2024-01-19 05:51:04 UTC
+
+95)English: typically
+Uzbek: órtacha, odatdagidek
+V1: kutilmaganda
+V2:  favqulotta
+V3: 
+Used: False
+Created: 2024-01-19 05:49:31 UTC
+Updated: 2024-01-19 05:49:31 UTC
+
+96)English: one at a time
+Uzbek: bir vaqtning ózida
+V1: yakunida
+V2:  ólimi oldidan
+V3:  bir qarashda
+Used: False
+Created: 2024-01-19 05:47:29 UTC
+Updated: 2024-01-19 05:47:30 UTC
+
+97)English: approach
+Uzbek: yondashuv
+V1: qóllab quvvatlash
+V2:  sherik bólish
+V3:  óralashuv
+Used: False
+Created: 2024-01-19 05:44:37 UTC
+Updated: 2024-01-19 05:44:38 UTC
+
+98)English: utterance
+Uzbek: fikr bildirish
+V1: aniqlik kiritish
+V2:  qaytmoq
+V3:  kótarilmoq
+Used: False
+Created: 2024-01-19 05:39:59 UTC
+Updated: 2024-01-19 05:39:59 UTC
+
+99)English: measure
+Uzbek: ólchamoq
+V1: kesmoq
+V2:  tortmoq
+V3:  mensimoq
+Used: False
+Created: 2024-01-19 05:38:20 UTC
+Updated: 2024-01-19 05:38:20 UTC
+
+100)English: amplify
+Uzbek: balandroq qilmoq
+V1: kóchmoq
+V2:  aniqlamoq
+V3:  qaror qilmoq
+Used: False
+Created: 2024-01-19 05:37:46 UTC
+Updated: 2024-01-19 05:37:47 UTC
+
+101)English: define
+Uzbek: belgilamoq
+V1: kar
+V2:  yaxshi holatda
+V3:  órgatmoq
+Used: False
+Created: 2024-01-19 05:30:20 UTC
+Updated: 2024-01-19 05:30:20 UTC
+
+102)English: bend over
+Uzbek: egilmoq
+V1: qiyshaymoq
+V2:  injiqlanmoq
+V3:  sinmoq
+Used: False
+Created: 2024-01-19 05:28:49 UTC
+Updated: 2024-01-19 05:28:49 UTC
+
+103)English: wicked
+Uzbek: yovuz
+V1: aqlli
+V2:  buzilgan
+V3:  charchagan
+Used: False
+Created: 2024-01-19 05:27:05 UTC
+Updated: 2024-01-19 05:27:05 UTC
 
